@@ -31,3 +31,7 @@ h3 + p {
 p ~ span {
     background: red
 }
+
+.item1 {
+    background: rgb(8, 0, 255)
+}
