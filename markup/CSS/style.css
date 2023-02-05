@@ -1,0 +1,33 @@
+* {
+    font-weight: 300;
+}
+
+h2 {
+    color: rgb(249, 0, 0);
+    text-shadow: 3px 2px 6px rgb(255, 0, 153);
+}
+
+.yellow {
+    color: rgb(83, 139, 0);
+    text-transform: lowercase;
+}
+
+#cool {
+    color: blue;
+    text-decoration: underline;
+}
+
+ul li {
+    color: rgb(0, 0, 0);
+    background: red;
+    margin: 5px;
+}
+
+h3 + p {
+    color: rgb(0, 255, 81);
+    background: yellow;
+}
+
+p ~ span {
+    background: red
+}
